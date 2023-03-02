@@ -1,6 +1,6 @@
-###A Web Application Build with React.js and Coingecko API
+### A Web Application Build with React.js and Coingecko API
 
-##`DEMO`
+## `DEMO`
 ### [Click here for live Demo](https://crypx-five.vercel.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
